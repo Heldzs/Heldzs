@@ -9,7 +9,7 @@ I’m **Helder**
 
 ## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/helder-júnior/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
+<a href="https://www.linkedin.com/in/helder-júnior/" target=_blank rel=noopener><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
 
 <a href="mailto:helderjjobs@gmail.com" target="_blank"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="deepa jarout | Gmail" width="35px"/></a>
 
