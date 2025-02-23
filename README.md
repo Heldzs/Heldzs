@@ -5,7 +5,7 @@ I’m **Helder**
 - 🌱 I’m currently learning Java and ReactNative
 - 📫 How to reach me on Discord: redmaster69
 - 🤔 I’m looking for help with which way I need to follow
-- I’m interested in progress in mobile development or back-end development or system analysis
+- 👀 I’m interested in progress in mobile development or back-end development or system analysis
 
 ## 🤝 Connect with me:
 
